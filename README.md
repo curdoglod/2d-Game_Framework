@@ -1,8 +1,8 @@
-# 🕹️ 2D Game Framework
+# 2D Game Framework
 
 *A lightweight 2D game framework developed in C++ with a focus on modularity and extendibility, using the SDL2 library.*
 
-## 🚀 Features
+## Features
 
 - **Entity-Component System (ECS)**: A flexible architecture using an entity-component system to improve code organization and expandability.
 - **Modular Components**: Includes predefined components such as `Button`, `Image`, `Rigidbody`, and `Text` for creating user interfaces, visual elements, and managing physics.
@@ -12,7 +12,7 @@
 - **Event-Driven System**: Event handling, such as mouse button clicks or key presses, is implemented for more interactive control.
 - **Event Distribution**: Components can react to events like clicks or movements without tight coupling between them.
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - **CMake**: The project uses CMake to handle building and dependencies.
